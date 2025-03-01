@@ -1,4 +1,4 @@
-# GameProgramming2 Final  
+# GameProgramming2 Final Game Project 
 
 Game Name: Burnout Buster  
 Description Short:  Oh no! The burnout is setting in! Can you stave off the executive dysfunction demons and get out of the burnout?!
